@@ -30,4 +30,4 @@
 注意：如果你的stl文件与我的不一样，需要在system文件夹下的snappyHexMeshDict内部的geometry、features、refinementSurfaces和surfaceFeatureExtractDict内容同步修改。
 3.stl文件存放在constant文件夹下的triSurface文件夹内部
 4.在blockMeshDict中创建一个能包住你的blender模型的立方体。
-5.执行上述“项目使用说明中的命令
+5.执行上述“项目使用说明”中的命令
